@@ -264,9 +264,18 @@ Este proyecto está licenciado bajo la Licencia MIT - ver el archivo [LICENSE](L
 **Diego Arroyo Zuasnabar**  
 *Desarrollador Full Stack | Mentor Técnico*
 
-[![Email](https://img.shields.io/badge/Email-tmldiego7%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tmldiego7@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Diego%20Arroyo-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/diego-arroyo)
-[![GitHub](https://img.shields.io/badge/GitHub-Reverse07-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Reverse07)
+<!-- Badges de contacto -->
+<p>
+  <a href="mailto:tmldiego7@gmail.com">
+    <img src="https://img.shields.io/badge/Email-tmldiego7%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge" />
+  </a>
+  <a href="https://www.linkedin.com/in/diego-arroyo-zuasnabar-99912131b/">
+    <img src="https://img.shields.io/badge/LinkedIn-Diego%20Arroyo-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
+  </a>
+  <a href="https://github.com/Reverse07">
+    <img src="https://img.shields.io/badge/GitHub-Reverse07-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge" />
+  </a>
+</p>
 
 </div>
 
@@ -276,6 +285,7 @@ Este proyecto está licenciado bajo la Licencia MIT - ver el archivo [LICENSE](L
 
 **⭐ ¡Si este proyecto te ayudó, considera darle una estrella en GitHub! ⭐**
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=footer)
+<!-- Footer visual -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=footer" alt="Footer visual" />
 
 </div>
