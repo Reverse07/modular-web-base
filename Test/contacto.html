@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contacto | Construcciones Generales L.U.D.I.E.R</title>
+    <meta name="description"
+        content="Ponte en contacto con Construcciones Generales L.U.D.I.E.R para proyectos de estructuras metálicas en Lima.">
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet"
+        href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+        <link rel="icon" href="img/logoLudier.png" type="image/x-icon">
+</head>
+
+<body>
+    <!-- HEADER -->
+    <header class="Logo">
+        <img src="Img/logoLudier.png" alt="Logo Construcciones Generales L.U.D.I.E.R">
+        <nav aria-label="Menú principal">
+            <div class="menu-toggle" id="menuToggle" aria-label="Abrir menú">
+                <span></span><span></span><span></span>
+            </div>
+            <ul>
+                <li><a href="index.html">Inicio</a></li>
+                <li><a href="nosotros.html">Nosotros</a></li>
+                <li><a href="servicios.html">Servicios</a></li>
+                <li><a href="proyectos.html">Proyectos</a></li>
+                <li><a href="testimonios.html">Testimonios</a></li>
+                <li><a href="blog.html">Blog o Novedades</a></li>
+                <li><a href="contacto.html" class="active">Contacto</a></li>
+                <li><a href="faq.html">FAQ</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <!-- MAIN -->
+    <main>
+        <section class="contacto animar">
+            <h2>Contáctanos</h2>
+            <p>Estamos listos para asesorarte en tu próximo proyecto de estructuras metálicas. Completa el formulario o utiliza nuestros medios de contacto directo.</p>
+
+            <div class="contacto-contenedor">
+                <!-- Formulario -->
+                <div class="contacto-formulario">
+    <form id="form-contacto">
+        <div class="form-grupo">
+            <label for="nombre">Nombre:</label>
+            <input type="text" id="nombre" name="user_name" placeholder="Tu nombre" required>
+        </div>
+        <div class="form-grupo">
+            <label for="email">Correo electrónico:</label>
+            <input type="email" id="email" name="user_email" placeholder="tuemail@ejemplo.com" required>
+        </div>
+        <div class="form-grupo">
+            <label for="telefono">Teléfono:</label>
+            <input type="tel" id="telefono" name="user_phone" placeholder="+51 900 000 000" required>
+        </div>
+        <div class="form-grupo">
+            <label for="mensaje">Mensaje:</label>
+            <textarea id="mensaje" name="message" rows="5" placeholder="Escribe tu mensaje" required></textarea>
+        </div>
+        <button type="submit" class="btn-enviar">Enviar mensaje</button>
+    </form>
+    <p id="msg-status"></p>
+</div>
+
+                <!-- Información de contacto -->
+                <div class="contacto-info">
+                    <h3>Información de contacto</h3>
+                    <p><i class="fas fa-phone"></i> <strong>Tel:</strong> <a href="tel:+51930747399">+51 930 747 399</a></p>
+                    <p><i class="fas fa-envelope"></i> <strong>Correo:</strong> <a
+                            href="mailto:ernestoarroyo1969@hotmail.com">ernestoarroyo1969@hotmail.com</a></p>
+                    <p><i class="fas fa-map-marker-alt"></i> <strong>Dirección:</strong> Lima, San Juan de Miraflores</p>
+
+                    <!-- Mapa de Google -->
+                    <div class="mapa">
+                        <iframe
+                            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3900.777217051248!2d-77.02287932524658!3d-12.14539358809444!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x9105c7f02c502b07%3A0xc5d5bbec1b4bcb1a!2sSan%20Juan%20de%20Miraflores!5e0!3m2!1ses!2spe!4v1693947643912!5m2!1ses!2spe"
+                            width="100%" height="250" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <!-- FOOTER -->
+    <footer class="footer">
+        <div class="footer-content">
+            <div class="footer-logo">
+                <img src="Img/logoLudier.png" alt="Logo Construcciones Generales L.U.D.I.E.R">
+                <p>Construcciones Generales L.U.D.I.E.R <br> Soluciones metálicas con calidad y seguridad</p>
+            </div>
+
+            <div class="footer-links">
+                <h4>Enlaces</h4>
+                <ul>
+                    <li><a href="index.html">Inicio</a></li>
+                    <li><a href="nosotros.html">Nosotros</a></li>
+                    <li><a href="servicios.html">Servicios</a></li>
+                    <li><a href="proyectos.html">Proyectos</a></li>
+                    <li><a href="testimonios.html">Testimonios</a></li>
+                    <li><a href="blog.html">Blog</a></li>
+                    <li><a href="contacto.html">Contacto</a></li>
+                    <li><a href="faq.html">FAQ</a></li>
+                </ul>
+            </div>
+
+            <div class="footer-contacto">
+                <h4>Contacto</h4>
+                <p><strong>Tel:</strong> <a href="tel:+51930747399">+51 930 747 399</a></p>
+                <p><strong>Correo:</strong> <a
+                        href="mailto:ernestoarroyo1969@hotmail.com">ernestoarroyo1969@hotmail.com</a></p>
+                <p><strong>Dirección:</strong> Lima, San Juan de Miraflores</p>
+            </div>
+
+            <div class="footer-redes">
+                <h4>Síguenos</h4>
+                <a href="#" aria-label="Facebook"><i class="fab fa-facebook-f"></i></a>
+                <a href="#" aria-label="Instagram"><i class="fab fa-instagram"></i></a>
+                <a href="#" aria-label="LinkedIn"><i class="fab fa-linkedin-in"></i></a>
+            </div>
+        </div>
+
+        <div class="footer-bottom">
+            <p>&copy; 2025 Construcciones Generales L.U.D.I.E.R. Todos los derechos reservados.</p>
+            <p><a href="#">Política de privacidad</a> | <a href="#">Términos y Condiciones</a></p>
+        </div>
+    </footer>
+
+    <!-- Botón de WhatsApp Flotante Mejorado -->
+    <a href="https://wa.me/51930747399" class="whatsapp-float" target="_blank"
+        aria-label="Chatea con nosotros por WhatsApp">
+        <i class="fab fa-whatsapp"></i>
+    </a>
+
+<!-- Botón volver arriba -->
+<button class="btn-up" aria-label="Volver arriba"><i class="fas fa-arrow-up"></i></button>
+
+<!-- Librería de EmailJS -->
+<script src="https://cdn.jsdelivr.net/npm/emailjs-com@3/dist/email.min.js"></script>
+<script>
+  (function(){
+    emailjs.init("J95ee7wiH357gNYNz"); // 👈 tu Public Key
+  })();
+</script>
+
+<!-- Tu script principal -->
+<script src="script.js"></script>
+</body>
+</html>
