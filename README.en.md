@@ -1,23 +1,52 @@
-<p align="center"> <a href="README.en.md"><img src="https://img.shields.io/badge/English%20Version-Click%20Here-blue?style=for-the-badge&logo=readme&logoColor=white" alt="English Version"/></a> <a href="README.md"><img src="https://img.shields.io/badge/Versión%20en%20Español-Haz%20Click-orange?style=for-the-badge&logo=readme&logoColor=white" alt="Versión en Español"/></a> </p>
+<!-- Selector de idioma con accesibilidad -->
+<nav aria-label="Language Selector" align="center">
+  <a href="README.en.md">
+    <img src="https://img.shields.io/badge/English%20Version-Click%20Here-blue?style=for-the-badge&logo=readme&logoColor=white" alt="English Version"/>
+  </a>
+  <a href="README.md">
+    <img src="https://img.shields.io/badge/Versión%20en%20Español-Haz%20Click-orange?style=for-the-badge&logo=readme&logoColor=white" alt="Versión en Español"/>
+  </a>
+</nav>
 
 # 🇺🇸 English Version
 
-# 🏢 Institutional Website - HTML, CSS & JavaScript
+# 🏢 Institutional Website – HTML, CSS & JavaScript
 
 <div align="center">
 
-![Institutional Website](https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Institutional%20Website&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Modular%20Structure%20%26%20Responsive%20Design&descAlignY=58&descAlign=50)
+<!-- Banner visual con codificación robusta -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Institutional%20Website&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Modular%20Structure%20&amp;%20Responsive%20Design&descAlignY=58&descAlign=50" alt="Institutional Website banner" />
 
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![EmailJS](https://img.shields.io/badge/EmailJS-FF4F00?style=for-the-badge&logo=email&logoColor=white)](https://www.emailjs.com/)
+<!-- Badges tecnológicos -->
+<p>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 Badge" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3 Badge" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript Badge" />
+  </a>
+  <a href="https://www.emailjs.com/">
+    <img src="https://img.shields.io/badge/EmailJS-FF4F00?style=for-the-badge&logo=email&logoColor=white" alt="EmailJS Badge" />
+  </a>
+</p>
 
-**A premium institutional website template featuring modern design patterns, modular structure, and zero-backend architecture.**
+<!-- Descripción del proyecto -->
+<p><strong>A premium institutional website template featuring modern design patterns, modular structure, and zero-backend architecture.</strong></p>
+<p><em>Plantilla institucional premium con diseño moderno, estructura modular y arquitectura sin backend.</em></p>
 
-[🚀 Live Demo](https://reverse07.github.io/modular-web-base) • [📖 Documentation](#documentation) • [🐛 Report Bug](https://github.com/Reverse07/modular-web-base/issues) • [💡 Request Feature](https://github.com/Reverse07/modular-web-base/issues)
+<!-- Enlaces clave -->
+<p>
+  <a href="https://reverse07.github.io/modular-web-base">🚀 Live Demo</a> • 
+  <a href="#documentation">📖 Documentation</a> • 
+  <a href="https://github.com/Reverse07/modular-web-base/issues">🐛 Report Bug</a> • 
+  <a href="https://github.com/Reverse07/modular-web-base/issues">💡 Request Feature</a>
+</p>
 
 </div>
+
 
 ---
 
